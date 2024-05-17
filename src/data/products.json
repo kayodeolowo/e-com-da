@@ -1,0 +1,60 @@
+[
+    {
+      "id": 1,
+      "name": "Wireless Earbuds",
+      "price": "$34.9",
+      "imageUrl": "earpod1.jpg",
+      "rating": 1,
+      "desc": "loredshfjsabejfasf jsafejfnjfsanfsj jfsaja"
+    },
+    {
+      "id": 2,
+      "name": "Headphones",
+      "price": "$149.99",
+      "imageUrl": "earpod1.jpg",
+      "rating": 3
+    },
+    {
+      "id": 3,
+      "name": "bose BT Earphone",
+      "price": "$99.99",
+      "imageUrl": "earpod1.jpg",
+      "rating": 4
+    },
+    {
+      "id": 4,
+      "name": "monster headset",
+      "price": "$67",
+      "imageUrl": "earpod1.jpg",
+      "rating": 3.5
+    },
+    {
+      "id": 5,
+      "name": "Wireless Earbuds",
+      "price": "$55",
+      "imageUrl": "earpod1.jpg",
+      "rating": 2.5
+    },
+    {
+      "id": 6,
+      "name": "Wireless Earbuds",
+      "price": "$96.99",
+      "imageUrl": "earpod1.jpg",
+      "rating": 2
+    },
+    {
+      "id": 7,
+      "name": "Wireless Earbuds",
+      "price": "$45.45",
+      "imageUrl": "earpod1.jpg",
+      "rating": 3
+    },
+    {
+      "id": 8,
+      "name": "Wireless Earbuds",
+      "price": "$25.56",
+      "imageUrl": "earpod1.jpg",
+      "rating": 1
+    }
+  ]
+  
